@@ -1,2 +1,0 @@
-# emartapplication
-emart app
